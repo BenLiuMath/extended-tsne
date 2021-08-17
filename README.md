@@ -4,6 +4,9 @@ This repository contains the report and poster for a project for the class CSE5 
 
 Our work was aimed at modifying and potentially improving the t-SNE algorithm based on our understanding of the intent of the algorithm.
 
+![Original t-SNE](https://github.com/BenLiuMath/extended-tsne/blob/main/images/t_sne_example.png?raw=true)
+![Modified t-SNE](https://github.com/BenLiuMath/extended-tsne/blob/main/images/modified_t_sne_example.png?raw=true)
+
 ## Summary of SNE and t-SNE
 t-SNE stands for t-distributed Stochastic Neighbor Embedding (SNE), and is a specific type or extension of SNE. The aim of SNE is to visually cluster high-dimensional data, by projecting the data from a high-dimensional origin space, onto a low-dimensional embedding space. The embedding space can be two or three dimensions for easy viewing in 2D or 3D plots.
 
